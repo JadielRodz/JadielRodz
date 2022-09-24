@@ -5,10 +5,8 @@
 I'm an aspiring Full Stack developer who has grown extremely passionate about Development and Engineering. Looking to grow within the industry to learn as much as I can and make great relationships while I'm at it! Welcome in!
    <p align="left">
       <a href="https://twitter.com/JDLRODZ">
-         <img alt="twitter" title="Follow Me on Twitter!" src=" ?logo=https://custom-icon-badges.demolab.com/badge/twitter-follow-blue"/></a> 
+         <img alt="twitter" title="Follow Me on Twitter!" src="https://custom-icon-badges.demolab.com/github/followers/JadielRodz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
        </a> 
-      <a href="https://github.com/JadielRodz?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JadielRodz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/JadielRodz?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JadielRodz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
