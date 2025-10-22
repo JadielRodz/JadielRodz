@@ -1,6 +1,6 @@
 #  Jadiel Rodriguez
 
-**`Going From Zero to Full Stack`**
+**`Ekklesia Dev, Team of 1`**
 
 Ekklesia.Dev working on WordNotes+ and WordReach+
    <p align="left">
