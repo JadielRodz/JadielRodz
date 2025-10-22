@@ -2,7 +2,7 @@
 
 **`Going From Zero to Full Stack`**
 
-I'm an aspiring Full Stack developer who has grown extremely passionate about Development and Engineering. Looking to grow within the industry to learn as much as I can and make great relationships while I'm at it! Welcome in!
+Ekklesia.Dev working on WordNotes+ and WordReach+
    <p align="left">
       <a href="https://twitter.com/JDLRODZ">
          <img alt="twitter" title="Follow Me on Twitter!" src="https://custom-icon-badges.demolab.com/github/followers/JadielRodz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
@@ -45,5 +45,6 @@ No Thing Here YET!
 <details>
  <summary><h3>👨‍💻 Zero to Full Stack</h3></summary>
 I have alkways been interested in the amazing science that is computers, I Picked up my first real PC around 2013 and fell in Love. Ever since then from playing LoL, CSGO, and among many others I spent a lot of time tryingt o learn as much as I could of my new found love. Hence I started to dabble into Development. I just recently started to learn and grow passionate over coding and all that comes with it. Follow me to see how far and how fast ill go with this Journey/
+
 
 [twitter]: https://twitter.com/JDLRODZ
