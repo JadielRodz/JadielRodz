@@ -1,6 +1,6 @@
 #  Jadiel Rodriguez
 
-**`Ekklesia Dev, Team of 1`**
+**`Tenacity Studios'**
 
 Ekklesia.Dev working on WordNotes+ and WordReach+
    <p align="left">
@@ -48,4 +48,5 @@ This is the team is being built and working towards expanding the tech in the Mi
 
 
 [twitter]: https://twitter.com/JDLRODZ
+
 
