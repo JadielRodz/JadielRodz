@@ -2,7 +2,7 @@
 
 **`Tenacity Studios'**
 
-Ekklesia.Dev working on WordNotes+ and WordReach+
+Tenacity Studios working on WordNotes+ and WordReach+
    <p align="left">
       <a href="https://twitter.com/JDLRODZ">
          <img alt="twitter" title="Follow Me on Twitter!" src="https://custom-icon-badges.demolab.com/github/followers/JadielRodz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
@@ -48,6 +48,7 @@ No Thing Here YET!
 Tenacity Studios is working on developing technology for the ministry space and beyond. We specialize in Web Development, App development and Full Business Tech Stack Development.
 
 [twitter]: https://twitter.com/JDLRODZ
+
 
 
 
